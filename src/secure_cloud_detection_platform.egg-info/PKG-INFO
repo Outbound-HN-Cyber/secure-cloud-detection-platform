@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: secure-cloud-detection-platform
+Version: 0.1.0
+Summary: Security engineering platform for automated threat detection and response
+Requires-Python: >=3.11
+License-File: LICENSE
+Dynamic: license-file

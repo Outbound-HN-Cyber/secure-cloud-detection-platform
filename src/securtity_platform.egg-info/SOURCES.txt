@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/securtity_platform/__init__.py
+src/securtity_platform.egg-info/PKG-INFO
+src/securtity_platform.egg-info/SOURCES.txt
+src/securtity_platform.egg-info/dependency_links.txt
+src/securtity_platform.egg-info/top_level.txt
+src/securtity_platform/models/event.py
+tests/test_securityevent.py
+tests/test_smoke.py
